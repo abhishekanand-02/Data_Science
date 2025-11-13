@@ -1,2 +1,5 @@
 scaler.pkl
 regressor.pkl
+forest_fire.csv
+red_wine.csv
+stud.csv
