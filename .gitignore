@@ -8,3 +8,6 @@ Algerian_forest_fires_dataset_UPDATE.xlsx
 height-weight.csv
 ridge.pkl
 scaler.pkl
+logs
+my_keras_model.h5
+my_keras_model.h5.h5
